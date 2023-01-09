@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ESD224DQAR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "ESD224DQAR" (!) = "", "ESD224DQAR", "Other", "595-ESD224DQAR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ESD224DQAR?qs=F5EMLAvA7IDFPTOz5JtaBw%3D%3D", "ESD224DQAR", "https://www.arrow.com/en/products/esd224dqar/texas-instruments?region=nac", "", "", "4-Channel Low Clamping ESD Protection Device for HDMI Interface", "http://www.ti.com/lit/gpn/esd224", "0.55 mm"
+END_PART
+
+END.

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SF72S006VBDR2500'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "JAE Electronics", "SF72S006VBDR2500" (!) = "", "SF72S006VBDR2500", "Other", "656-SF72S006VBDR2500", "https://www.mouser.co.uk/ProductDetail/JAE-Electronics/SF72S006VBDR2500?qs=AQlKX63v8Ru8DC7mjqNwTg%3D%3D", "", "", "", "", "Memory Card Connectors NANO SIM Card", "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-13/256652.pdf"
+END_PART
+
+END.

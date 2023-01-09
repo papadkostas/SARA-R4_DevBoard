@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SR4L002
+D Antennas LTE 700-LTE 2400MHz Max RL -6dB
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS-11/219790.pdf
+$ENDCMP
+#
+#End Doc Library

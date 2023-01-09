@@ -1,0 +1,9 @@
+Manufacturer=Nordic Semiconductor
+PartNumber=NPM1100-CAAA-R
+PartCategory=Integrated Circuit
+PackageCategory=BGA
+PinCount=25
+Version=1.1
+Released=2021-06-15 14:23:33
+Downloaded=2022-12-31 13:34:10
+3D=Y

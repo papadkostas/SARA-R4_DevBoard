@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SF72S006VBDR2500"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SF72S006VBDR2500")
+        (spec "default")
+    )
+)

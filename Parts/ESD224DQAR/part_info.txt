@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=ESD224DQAR
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=10
+Version=1.2
+Released=2020-01-16 11:45:45
+Downloaded=2023-01-03 16:13:02
+3D=Y

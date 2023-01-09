@@ -1,0 +1,20 @@
+.ESD224DQAR :1 ;4-Channel Low Clamping ESD Protection Device for HDMI Interface
+ESD224DQAR
+*STM IC
+*NGS
+*PLB 1="IO1_C" 2="IO2_C" 3="GND_1" 4="IO3_C" 5="IO4_C" 6="IO4_S" 7="IO3_S" 8="GND_2" 9="IO2_S" 10="IO1_S"
+*MXP 10
+*DFN ESD224DQAR
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (ESD224DQAR)
+~!Mouser Part Number (595-ESD224DQAR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ESD224DQAR?qs=F5EMLAvA7IDFPTOz5JtaBw%3D%3D)
+~!Arrow Part Number (ESD224DQAR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/esd224dqar/texas-instruments?region=nac)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (http://www.ti.com/lit/gpn/esd224)
+~!Height (0.55mm)
+~!3D_Model (ESD224DQAR)
+ESD224DQAR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 

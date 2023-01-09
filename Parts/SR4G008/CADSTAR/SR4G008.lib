@@ -1,0 +1,19 @@
+.SR4G008 :1 ;Antennas 1559-1609MHz Avg. Eff >75% Linear
+SR4G008
+*STM ANT
+*NGS
+*PLB 1="NC_1" 2="FEED" 3="GND_1" 4="GND_2" 5="NC_2" 6="GND_3"
+*MXP 6
+*DFN SR4G008
+~!Manufacturer_Name (Antenova)
+~!Manufacturer_Part_Number (SR4G008)
+~!Mouser Part Number (237-SR4G008)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Antenova/SR4G008?qs=vyIerDHf%2Fmn%2FnBMYNSbzrA%3D%3D)
+~!Arrow Part Number (SR4G008)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/sr4g008/antenova?region=nac)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/SR4G008.pdf)
+~!Height (-)
+SR4G008
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

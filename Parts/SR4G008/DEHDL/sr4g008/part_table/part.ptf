@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SR4G008'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Antenova", "SR4G008" (!) = "", "SR4G008", "Other", "237-SR4G008", "https://www.mouser.co.uk/ProductDetail/Antenova/SR4G008?qs=vyIerDHf%2Fmn%2FnBMYNSbzrA%3D%3D", "SR4G008", "https://www.arrow.com/en/products/sr4g008/antenova?region=nac", "", "", "Antennas 1559-1609MHz Avg. Eff >75% Linear", "https://componentsearchengine.com/Datasheets/1/SR4G008.pdf"
+END_PART
+
+END.

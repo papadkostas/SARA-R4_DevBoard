@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESD224DQAR
+D 4-Channel Low Clamping ESD Protection Device for HDMI Interface
+K
+F http://www.ti.com/lit/gpn/esd224
+$ENDCMP
+#
+#End Doc Library

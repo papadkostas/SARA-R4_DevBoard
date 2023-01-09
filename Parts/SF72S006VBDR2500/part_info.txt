@@ -1,0 +1,9 @@
+Manufacturer=JAE Electronics
+PartNumber=SF72S006VBDR2500
+PartCategory=Connector
+PackageCategory=Other
+PinCount=18
+Version=1.1
+Released=2017-09-05 09:40:54
+Downloaded=2022-12-30 23:02:51
+3D=Y

@@ -1,0 +1,115 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "SR4G008"
+   (description "Antennas 1559-1609MHz Avg. Eff >75% Linear")
+   (family "ANA")
+   (package "SR4G008")
+   (attribute "Datasheet Link" "https://componentsearchengine.com/Datasheets/1/SR4G008.pdf")
+   (attribute "Manufacturer_Name" "Antenova")
+   (attribute "Manufacturer_Part_Number" "SR4G008")
+   (attribute "Mouser Part Number" "237-SR4G008")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Antenova/SR4G008?qs=vyIerDHf%2Fmn%2FnBMYNSbzrA%3D%3D")
+   (attribute "Arrow Part Number" "SR4G008")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/sr4g008/antenova?region=nac")
+   (attribute "Mouser Testing Part Number" "")
+   (attribute "Mouser Testing Price/Stock" "")
+   (gate
+    (symbol "SR4G008")
+    (pin "NC_1" 1 PS)
+    (pin "FEED" 2 PS)
+    (pin "GND_1" 3 PS)
+    (pin "GND_2" 4 PS)
+    (pin "NC_2" 5 PS)
+    (pin "GND_3" 6 PS)
+   )
+  )
+  (symbol "SR4G008"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1000 100) (pt 1000 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SR4G008"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -3.5 2.9)
+      (pt 3.5 2.9)
+      (pt 3.5 -2.9)
+      (pt -3.5 -2.9)
+      (pt -3.5 2.9))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -3.5 -2.9)
+      (pt -3.5 2.9)
+      (pt 3.5 2.9)
+      (pt 3.5 -2.9)
+      (pt -3.5 -2.9))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (circle
+      (pt -2.87655 -3.541) (pt -2.69945 -3.541)
+     )
+    )
+   )
+   (leg 1 (pt -2.8 -2.2) (padstack 0))
+   (leg 2 (pt -0.8 -2.2) (padstack 0))
+   (leg 3 (pt 2.8 -2.2) (padstack 0))
+   (leg 4 (pt 2.8 2.2) (padstack 0))
+   (leg 5 (pt -0.8 2.2) (padstack 0))
+   (leg 6 (pt -2.8 2.2) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (square 1))
+   )
+  )
+ )
+)

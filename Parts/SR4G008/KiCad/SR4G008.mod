@@ -1,0 +1,64 @@
+PCBNEW-LibModule-V1  2022-12-21 20:22:36
+# encoding utf-8
+Units mm
+$INDEX
+SR4G008
+$EndINDEX
+$MODULE SR4G008
+Po 0 0 0 15 63a36b0c 00000000 ~~
+Li SR4G008
+Cd SR4G008
+Kw Antenna
+Sc 0
+At SMD
+AR 
+Op 0 0 0
+T0 -0.346 -0.025 1.27 1.27 0 0.254 N V 21 N "ANT**"
+T1 -0.346 -0.025 1.27 1.27 0 0.254 N I 21 N "SR4G008"
+DS -3.5 -2.9 3.5 -2.9 0.2 24
+DS 3.5 -2.9 3.5 2.9 0.2 24
+DS 3.5 2.9 -3.5 2.9 0.2 24
+DS -3.5 2.9 -3.5 -2.9 0.2 24
+DS -3.5 2.9 -3.5 -2.9 0.2 21
+DS -3.5 -2.9 3.5 -2.9 0.2 21
+DS 3.5 -2.9 3.5 2.9 0.2 21
+DS 3.5 2.9 -3.5 2.9 0.2 21
+DC -2.788 3.541 -2.87655 3.541 0.254 21
+$PAD
+Po -2.8 2.2
+Sh "1" R 1 1 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po -0.8 2.2
+Sh "2" R 1 1 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 2.8 2.2
+Sh "3" R 1 1 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 2.8 -2.2
+Sh "4" R 1 1 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po -0.8 -2.2
+Sh "5" R 1 1 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po -2.8 -2.2
+Sh "6" R 1 1 0 0 900
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$EndMODULE SR4G008
+$EndLIBRARY

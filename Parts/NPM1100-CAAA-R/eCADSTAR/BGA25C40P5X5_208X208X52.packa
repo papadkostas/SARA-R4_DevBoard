@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "NPM1100-CAAA-R"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-06-15-14:23:33)
+    (mountForm default
+        (footprintRef "BGA25C40P5X5_208X208X52")
+        (spec "System")
+    )
+)

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "NX3215SA32768KEXS00AMU00003"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "NX3215SA32768KEXS00AMU00003")
+        (spec "default")
+    )
+)

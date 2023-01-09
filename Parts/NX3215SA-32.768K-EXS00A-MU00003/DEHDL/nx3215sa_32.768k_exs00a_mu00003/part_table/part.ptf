@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NX3215SA_32.768K_EXS00A_MU00003'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "NDK", "NX3215SA-32.768K-EXS00A-MU00003" (!) = "", "NX3215SA32768KEXS00AMU00003", "Other", "344-NX3215SA32.768K3", "https://www.mouser.co.uk/ProductDetail/NDK/NX3215SA-32.768K-EXS00A-MU00003?qs=w%2Fv1CP2dgqrE9YNksyAN9A%3D%3D", "", "", "", "", "Crystals CRYSTAL 32.768KHZ 12.5PF SMD", "https://media.digikey.com/pdf/Data%20Sheets/NDK%20PDFs/NX3215SA-32.768kHz-EXS00A-MU00003.pdf", "0.9 mm"
+END_PART
+
+END.

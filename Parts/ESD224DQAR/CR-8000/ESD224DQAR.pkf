@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "ESD224DQAR"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "ESD224DQAR")
+        (spec "default")
+    )
+)

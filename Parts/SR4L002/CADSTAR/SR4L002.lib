@@ -1,0 +1,20 @@
+.SR4L002 :1 ;Antennas LTE 700-LTE 2400MHz Max RL -6dB
+SR4L002
+*STM ANT
+*NGS
+*PLB 1="NOT USED_1" 2="NOT USED_2" 3="FEED" 4="RETURN/GND" 5="NOT USED_3" 6="NOT USED_4" 7="NOT USED_5" 8="NOT USED_6" 9="NOT USED_7" 10="NOT USED_8" 11="NOT USED_9" 12="NOT USED_10" 13="NOT USED_11" 14="NOT USED_12" 15="NOT USED_13" 16="NOT USED_14"
+*MXP 16
+*DFN SR4L002
+~!Manufacturer_Name (Antenova)
+~!Manufacturer_Part_Number (SR4L002)
+~!Mouser Part Number (237-SR4L002)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Antenova/SR4L002?qs=mKNKSX85ZJcu02A0ol1abw%3D%3D)
+~!Arrow Part Number (SR4L002)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/sr4l002/antenova?region=nac)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/DKDS-11/219790.pdf)
+~!Height (3mm)
+~!3D_Model (SR4L002)
+SR4L002
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 

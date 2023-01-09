@@ -1,0 +1,41 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SR4L002
+#/1188508/468419/2.49/16/4/Antenna
+DEF SR4L002 ANT 0 30 Y Y 1 F N
+F0 "ANT" 1650 300 50 H V L CNN
+F1 "SR4L002" 1650 200 50 H V L CNN
+F2 "SR4L002" 1650 100 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-11/219790.pdf" 1650 0 50 H I L CNN
+F4 "Antennas LTE 700-LTE 2400MHz Max RL -6dB" 1650 -100 50 H I L CNN "Description"
+F5 "3" 1650 -200 50 H I L CNN "Height"
+F6 "Antenova" 1650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "SR4L002" 1650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "237-SR4L002" 1650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Antenova/SR4L002?qs=mKNKSX85ZJcu02A0ol1abw%3D%3D" 1650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "SR4L002" 1650 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/sr4l002/antenova?region=nac" 1650 -800 50 H I L CNN "Arrow Price/Stock"
+F12 "" 1650 -900 50 H I L CNN "Mouser Testing Part Number"
+F13 "" 1650 -1000 50 H I L CNN "Mouser Testing Price/Stock"
+DRAW
+X NOT_USED_1 1 0 0 200 R 50 50 0 0 P
+X NOT_USED_2 2 0 -100 200 R 50 50 0 0 P
+X FEED 3 0 -200 200 R 50 50 0 0 P
+X RETURN/GND 4 0 -300 200 R 50 50 0 0 P
+X NOT_USED_3 5 0 -400 200 R 50 50 0 0 P
+X NOT_USED_4 6 0 -500 200 R 50 50 0 0 P
+X NOT_USED_5 7 0 -600 200 R 50 50 0 0 P
+X NOT_USED_6 8 0 -700 200 R 50 50 0 0 P
+X NOT_USED_7 9 1800 0 200 L 50 50 0 0 P
+X NOT_USED_8 10 1800 -100 200 L 50 50 0 0 P
+X NOT_USED_9 11 1800 -200 200 L 50 50 0 0 P
+X NOT_USED_10 12 1800 -300 200 L 50 50 0 0 P
+X NOT_USED_11 13 1800 -400 200 L 50 50 0 0 P
+X NOT_USED_12 14 1800 -500 200 L 50 50 0 0 P
+X NOT_USED_13 15 1800 -600 200 L 50 50 0 0 P
+X NOT_USED_14 16 1800 -700 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1600 100 1600 -800 200 -800 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

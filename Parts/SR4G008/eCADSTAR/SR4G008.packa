@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SR4G008"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-07-03-13:11:05)
+    (mountForm default
+        (footprintRef "SR4G008")
+        (spec "System")
+    )
+)

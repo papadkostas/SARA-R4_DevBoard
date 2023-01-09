@@ -1,0 +1,192 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "SR4L002"
+   (description "Antennas LTE 700-LTE 2400MHz Max RL -6dB")
+   (family "ANA")
+   (package "SR4L002")
+   (attribute "Datasheet Link" "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-11/219790.pdf")
+   (attribute "Geometry.Height" "3mm")
+   (attribute "Manufacturer_Name" "Antenova")
+   (attribute "Manufacturer_Part_Number" "SR4L002")
+   (attribute "Mouser Part Number" "237-SR4L002")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Antenova/SR4L002?qs=mKNKSX85ZJcu02A0ol1abw%3D%3D")
+   (attribute "Arrow Part Number" "SR4L002")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/sr4l002/antenova?region=nac")
+   (attribute "Mouser Testing Part Number" "")
+   (attribute "Mouser Testing Price/Stock" "")
+   (gate
+    (symbol "SR4L002")
+    (pin "NOT_USED_1" 1 PS)
+    (pin "NOT_USED_2" 2 PS)
+    (pin "FEED" 3 PS)
+    (pin "RETURN/GND" 4 PS)
+    (pin "NOT_USED_3" 5 PS)
+    (pin "NOT_USED_4" 6 PS)
+    (pin "NOT_USED_5" 7 PS)
+    (pin "NOT_USED_6" 8 PS)
+    (pin "NOT_USED_7" 9 PS)
+    (pin "NOT_USED_8" 10 PS)
+    (pin "NOT_USED_9" 11 PS)
+    (pin "NOT_USED_10" 12 PS)
+    (pin "NOT_USED_11" 13 PS)
+    (pin "NOT_USED_12" 14 PS)
+    (pin "NOT_USED_13" 15 PS)
+    (pin "NOT_USED_14" 16 PS)
+   )
+  )
+  (symbol "SR4L002"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1600 100) (pt 1600 -800) (pt 200 -800) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -600) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -700) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1800 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1800 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1800 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1800 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1800 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1800 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1800 -600) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1800 -700) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SR4L002"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -17.5 4.525)
+      (pt 17.5 4.525)
+      (pt 17.5 -3.975)
+      (pt -17.5 -3.975)
+      (pt -17.5 4.525))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -17.5 4.525)
+      (pt 17.5 4.525)
+      (pt 17.5 -3.975)
+      (pt -17.5 -3.975)
+      (pt -17.5 4.525))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -18.5 5.525)
+      (pt 18.5 5.525)
+      (pt 18.5 -5.525)
+      (pt -18.5 -5.525)
+      (pt -18.5 5.525))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -16.3 -4.425)
+      (arc (pt -16.300 -4.425) (pt -16.300 -4.525) (pt -16.100 -4.325) (start -180.0) (sweep 180.0))
+      (pt -16.1 -4.425)
+      (arc (pt -16.100 -4.425) (pt -16.300 -4.525) (pt -16.100 -4.325) (start -180.0) (sweep .0))
+      (pt -16.3 -4.425))))
+   (leg 1 (pt -16.200 -3.175) (padstack 0))
+   (leg 2 (pt -9.500 -3.175) (padstack 0))
+   (leg 3 (pt -2.500 -3.175) (padstack 0))
+   (leg 4 (pt 2.500 -3.175) (padstack 0))
+   (leg 5 (pt 9.500 -3.175) (padstack 0))
+   (leg 6 (pt 16.200 -3.175) (padstack 0))
+   (leg 7 (pt 16.200 -0.875) (padstack 0))
+   (leg 8 (pt 16.200 1.425) (padstack 0))
+   (leg 9 (pt 16.200 3.725) (padstack 0))
+   (leg 10 (pt 9.500 3.725) (padstack 0))
+   (leg 11 (pt 2.500 3.725) (padstack 0))
+   (leg 12 (pt -2.500 3.725) (padstack 0))
+   (leg 13 (pt -9.500 3.725) (padstack 0))
+   (leg 14 (pt -16.200 3.725) (padstack 0))
+   (leg 15 (pt -16.200 1.425) (padstack 0))
+   (leg 16 (pt -16.200 -0.875) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.000 2.000 0 0 0.000))
+   )
+   (model "SR4L002.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

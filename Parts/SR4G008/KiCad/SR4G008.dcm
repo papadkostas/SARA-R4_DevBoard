@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SR4G008
+D Antennas 1559-1609MHz Avg. Eff >75% Linear
+K
+F https://componentsearchengine.com/Datasheets/1/SR4G008.pdf
+$ENDCMP
+#
+#End Doc Library

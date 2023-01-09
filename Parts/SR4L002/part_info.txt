@@ -1,0 +1,9 @@
+Manufacturer=Antenova
+PartNumber=SR4L002
+PartCategory=Antenna
+PackageCategory=Other
+PinCount=16
+Version=1.2
+Released=2018-08-02 10:10:08
+Downloaded=2022-12-21 18:52:36
+3D=Y

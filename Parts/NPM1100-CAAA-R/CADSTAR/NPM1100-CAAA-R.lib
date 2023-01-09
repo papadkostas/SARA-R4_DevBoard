@@ -1,0 +1,21 @@
+.NPM1100-CAAA-R :1 ;NPM1100 POWER MANAGEMENT IC
+BGA25C40P5X5_208X208X52
+*STM IC
+*NGS
+*PNM 1=A1 2=A2 3=A3 4=A4 5=A5 6=B1 7=B2 8=B3 9=B4 10=B5 11=C1 12=C2 13=C3 14=C4 15=C5 16=D1 17=D2 18=D3 19=D4 20=D5 21=E1 22=E2 23=E3 24=E4 25=E5
+*PLB 1="D-" 2="D+" 3="DEC" 4="SW" 5="PVSS" 6="VBUS_1" 7="VBUS_2" 8="VOUTBSET1" 9="VOUTBSET0" 10="VOUTB" 11="VSYS_1" 12="VSYS_2" 13="VTERMSET" 14="AVSS_1" 15="AVSS_2" 16="VBAT_1" 17="VBAT_2" 18="SHPHLD" 19="SHPACT" 20="ISET" 21="NTC" 22="ICHG" 23="ERR" 24="CHG" 25="MODE"
+*MXP 25
+*DFN NPM1100-CAAA-R
+~!Manufacturer_Name (Nordic Semiconductor)
+~!Manufacturer_Part_Number (NPM1100-CAAA-R)
+~!Mouser Part Number (949-NPM1100-CAAA-R)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Nordic-Semiconductor/nPM1100-CAAA-R?qs=TuK3vfAjtkX6Y1svXvOxyA%3D%3D)
+~!Arrow Part Number (NPM1100-CAAA-R)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/npm1100-caaa-r/nordic-semiconductor?region=nac)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://infocenter.nordicsemi.com/pdf/nPM1100_PS_v1.0.pdf)
+~!Height (0.522mm)
+~!3D_Model (NPM1100-CAAA-R)
+NPM1100-CAAA-R
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 25.1!U 

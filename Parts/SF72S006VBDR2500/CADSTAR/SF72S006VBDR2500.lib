@@ -1,0 +1,20 @@
+.SF72S006VBDR2500 :1 ;Memory Card Connectors NANO SIM Card
+SF72S006VBDR2500
+*STM J
+*NGS
+*PLB 1="C1" 2="C2" 3="C3" 4="C5" 5="C6" 6="C7" 7="GND1" 8="GND2" 9="GND3" 10="GND4" 11="GND5" 12="GND6" 13="GND7" 14="GND8" 15="GND9" 16="GND10" 17="CSW (GROUND FRAME)" 18="DSW"
+*MXP 18
+*DFN SF72S006VBDR2500
+~!Manufacturer_Name (JAE Electronics)
+~!Manufacturer_Part_Number (SF72S006VBDR2500)
+~!Mouser Part Number (656-SF72S006VBDR2500)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/JAE-Electronics/SF72S006VBDR2500?qs=AQlKX63v8Ru8DC7mjqNwTg%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/DKDS-13/256652.pdf)
+~!Height (-)
+~!3D_Model (SF72S006VBDR2500)
+SF72S006VBDR2500
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 

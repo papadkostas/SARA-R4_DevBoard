@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_966784"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-03-05-16:03:38)
+    (utime 2021-08-07-10:30:28)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "NX3215SA-32_768K-EXS00A-MU0000")
+)
+
+
+(pinAssign "ECS_966784"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-03-05-16:03:38)
+    (utime 2021-08-07-10:30:28)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_966784")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "NX3215SA-32_768K-EXS00A-MU0000")
+)
+
+
+(part "NX3215SA-32_768K-EXS00A-MU0000"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-03-05-16:03:38)
+    (utime 2021-08-07-10:30:28)
+    (packageRef "NX3215SA-32_768K-EXS00A-MU0000")
+    (pinAssignRef "ECS_966784")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "Y")
+    (property "description" "Crystals CRYSTAL 32.768KHZ 12.5PF SMD")
+    (property "Manufacturer_Name" "NDK")
+    (property "Manufacturer_Part_Number" "NX3215SA-32.768K-EXS00A-MU00003")
+    (property "Mouser_Part_Number" "344-NX3215SA32.768K3")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/NDK/NX3215SA-32.768K-EXS00A-MU00003?qs=w%2Fv1CP2dgqrE9YNksyAN9A%3D%3D")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Mouser_Testing_Part_Number" "")
+    (property "Mouser_Testing_Price/Stock" "")
+    (property "Datasheet_Link" "https://media.digikey.com/pdf/Data%20Sheets/NDK%20PDFs/NX3215SA-32.768kHz-EXS00A-MU00003.pdf")
+    (property "compAreaTopHeight" 0.9)
+)
+
+

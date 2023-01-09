@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SR4L002'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Antenova", "SR4L002" (!) = "", "SR4L002", "Other", "237-SR4L002", "https://www.mouser.co.uk/ProductDetail/Antenova/SR4L002?qs=mKNKSX85ZJcu02A0ol1abw%3D%3D", "SR4L002", "https://www.arrow.com/en/products/sr4l002/antenova?region=nac", "", "", "Antennas LTE 700-LTE 2400MHz Max RL -6dB", "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-11/219790.pdf", "3 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NPM1100-CAAA-R
+D NPM1100 POWER MANAGEMENT IC
+K
+F https://infocenter.nordicsemi.com/pdf/nPM1100_PS_v1.0.pdf
+$ENDCMP
+#
+#End Doc Library

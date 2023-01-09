@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NPM1100_CAAA_R'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Nordic Semiconductor", "NPM1100-CAAA-R" (!) = "", "BGA25C40P5X5_208X208X52", "BGA", "949-NPM1100-CAAA-R", "https://www.mouser.co.uk/ProductDetail/Nordic-Semiconductor/nPM1100-CAAA-R?qs=TuK3vfAjtkX6Y1svXvOxyA%3D%3D", "NPM1100-CAAA-R", "https://www.arrow.com/en/products/npm1100-caaa-r/nordic-semiconductor?region=nac", "", "", "NPM1100 POWER MANAGEMENT IC", "https://infocenter.nordicsemi.com/pdf/nPM1100_PS_v1.0.pdf", "0.522 mm"
+END_PART
+
+END.

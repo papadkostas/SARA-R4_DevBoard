@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "NX3215SA-32_768K-EXS00A-MU0000"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-03-05-16:03:38)
+    (mountForm default
+        (footprintRef "NX3215SA32768KEXS00AMU00003")
+        (spec "System")
+    )
+)
