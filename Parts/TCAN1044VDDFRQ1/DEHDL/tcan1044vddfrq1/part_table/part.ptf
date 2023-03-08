@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TCAN1044VDDFRQ1'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TCAN1044VDDFRQ1" (!) = "", "SOT65P280X110-8N", "SOT23 (8-Pin)", "595-TCAN1044VDDFRQ1", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TCAN1044VDDFRQ1?qs=vmHwEFxEFR%2Fx%2Fvg%2FkH0KPw%3D%3D", "TCAN1044VDDFRQ1", "https://www.arrow.com/en/products/tcan1044vddfrq1/texas-instruments?region=nac", "CAN Interface IC Automotive fault-protected high-speed CAN transceiver with standby and 1.8-V I/O support 8-SOT-23-THIN -40 to 125", "https://www.ti.com/lit/gpn/TCAN1044V-Q1", "1.1 mm"
+END_PART
+
+END.

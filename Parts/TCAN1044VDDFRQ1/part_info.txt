@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TCAN1044VDDFRQ1
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (8-Pin)
+PinCount=8
+Version=1.1
+Released=2020-07-06 02:33:18
+Downloaded=2023-02-24 06:44:23
+3D=Y

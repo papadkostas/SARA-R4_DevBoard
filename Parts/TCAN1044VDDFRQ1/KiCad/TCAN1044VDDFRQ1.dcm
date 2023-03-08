@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TCAN1044VDDFRQ1
+D CAN Interface IC Automotive fault-protected high-speed CAN transceiver with standby and 1.8-V I/O support 8-SOT-23-THIN -40 to 125
+K
+F https://www.ti.com/lit/gpn/TCAN1044V-Q1
+$ENDCMP
+#
+#End Doc Library
